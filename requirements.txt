@@ -155,7 +155,7 @@ python-dateutil==2.6.1
 pytz==2017.2
 PyWavelets==0.5.2
 pywin32==221
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 qgrid==1.0.0b7
 QtAwesome==0.4.4
